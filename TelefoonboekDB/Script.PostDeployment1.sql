@@ -9,5 +9,5 @@ Post-Deployment Script Template
                SELECT * FROM [$(TableName)]                    
 --------------------------------------------------------------------------------------
 */
-Insert into Contact (Voornaam,Achternaam,Geboortedatum,Telefoonnummer) values ('Eric','Kuijpers','1974-04-25','06-51312408');
+Insert into Contact (Voornaam,Achternaam,Geboortedatum,Telefoonnummer) values ('Eric','Kuijpers','1974-04-25','06-87654');
 GO
